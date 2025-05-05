@@ -1,0 +1,1 @@
+Setup Database using prisma, establish clerk login is sign in page and add it to .env file , have server running on specified port refer to dockerfile , npm run dev and try sign in with pre existing clerk admin id 
