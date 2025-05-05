@@ -1,0 +1,44 @@
+{
+  "Aarav Sharma": {
+    "Math": {
+      "internal": 10,
+      "assignment": 3,
+      "attendance": 1,
+      "viva": 0,
+      "endTerm": 0,
+      "pdfUrl": "/uploads/Aarav Sharma/Math_Report.pdf"
+    },
+    "Science": {
+      "internal": 9,
+      "assignment": 5,
+      "attendance": 3,
+      "viva": 0,
+      "endTerm": 0,
+      "pdfUrl": ""
+    },
+    "English": {
+      "internal": 8,
+      "assignment": 8,
+      "attendance": 3,
+      "viva": 5,
+      "endTerm": 0,
+      "pdfUrl": ""
+    },
+    "History": {
+      "internal": 8,
+      "assignment": 6,
+      "attendance": 5,
+      "viva": 0,
+      "endTerm": 0,
+      "pdfUrl": ""
+    },
+    "Computer Science": {
+      "internal": 10,
+      "assignment": 7,
+      "attendance": 4,
+      "viva": 0,
+      "endTerm": 0,
+      "pdfUrl": ""
+    }
+  }
+}

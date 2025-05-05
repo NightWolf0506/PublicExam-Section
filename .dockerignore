@@ -1,0 +1,7 @@
+node_modules
+.next
+.vercel
+.git
+.vscode
+.DS_Store
+.env
